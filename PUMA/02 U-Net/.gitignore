@@ -1,0 +1,6 @@
+__pycache__/
+.DS_Store
+saved_images/
+saved_images_old/
+wandb/
+data/
